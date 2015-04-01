@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=DBeaver
+Comment=MultiDB Client
+Exec=/opt/dbeaver/./dbeaver
+Icon=/opt/dbeaver/icon.xpm
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true
+

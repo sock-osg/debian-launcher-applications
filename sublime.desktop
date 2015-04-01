@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Sublime Text 2
+Comment=Versatil Text Editor
+Exec=/opt/sublime-text-2/./sublime_text
+Icon=/opt/sublime-text-2/Icon/48x48/sublime_text.png
+nal=false
+Type=Application
+Categories=Development;
+StartupNotify=true
+

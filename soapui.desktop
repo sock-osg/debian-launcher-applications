@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SoapUI
+Comment=Test your Web Services
+Exec=sh opt/SoapUI-5.0.0/bin/soapui.sh
+Icon=/opt/SoapUI-5.0.0/SoapUI.png
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true
+

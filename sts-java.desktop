@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Sprint Tool Suite Java
+Comment=STS IDE
+Exec=/opt/sts-bundle-java/sts-3.6.3.SR1/./STS
+Icon=/opt/sts-bundle-java/sts-3.6.3.SR1/icon.xpm
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true
+
