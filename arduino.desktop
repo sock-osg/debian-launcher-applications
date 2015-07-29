@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino IDE
+GenericName=Integrated Development Environment
+Comment=An IDE for Arduino-compatible electronics prototyping platforms
+Exec=/opt/arduino-1.6.5/arduino
+Icon=/opt/arduino-1.6.5/arduino.png
+Terminal=false
+Categories=Development;IDE;Electronics;
+MimeType=text/x-arduino
+Keywords=embedded electronics;electronics;avr;microcontroller;
+
