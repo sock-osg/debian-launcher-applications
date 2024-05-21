@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=IntelliJ IDEA
-Comment=Code-centric IDE, focused on your productivity. Full Java EE support, deep code understanding, best debugger, refactorings, everything right out of the box.
-Exec=/opt/idea-default/bin/./idea.sh
-Icon=/opt/idea-default/bin/idea.png
-Terminal=false
-Categories=Development;IDE;Java;
-

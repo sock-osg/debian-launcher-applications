@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Telegram
+Comment=Telegram messages are heavily encrypted and can self-destruct. Synced. Telegram lets you access your chats from multiple devices.
+Exec=/opt/Telegram/Telegram
+Icon=/opt/Telegram/icon.png
+Terminal=false
+Type=Application
+Categories=Messages;
+StartupNotify=true

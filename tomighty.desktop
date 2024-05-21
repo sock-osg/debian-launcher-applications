@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Tomighty
-Comment=A free desktop timer for the Pomodoro Technique
-Exec=/opt/tomighty/tomighty.jar
-Icon=/opt/tomighty/logo.png
-Terminal=false
-

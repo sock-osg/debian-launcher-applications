@@ -1,12 +1,8 @@
 [Desktop Entry]
 Type=Application
 Name=Arduino IDE
-GenericName=Integrated Development Environment
-Comment=An IDE for Arduino-compatible electronics prototyping platforms
-Exec=/opt/arduino-default/arduino
-Icon=/opt/arduino-default/lib/arduino.png
+Comment=The arduino software (IDE) is an open source software, which is used to programme the Arduino boards.
+Exec=/opt/arduino-ide/arduino-ide-default.AppImage
+Icon=/opt/arduino-ide/icon.png
 Terminal=false
 Categories=Development;IDE;Electronics;
-MimeType=text/x-arduino
-Keywords=embedded electronics;electronics;avr;microcontroller;
-

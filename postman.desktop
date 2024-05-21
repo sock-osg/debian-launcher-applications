@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Postman
+Comment=Postman is an API platform for building and using APIs.
+Exec=/opt/Postman/Postman
+Icon=/opt/Postman/app/icons/icon_128x128.png
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true
